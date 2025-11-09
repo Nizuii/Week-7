@@ -26,3 +26,42 @@
   <li><strong>Network effects:</strong> This exponential spread continues, consuming bandwitch and resources, slowing down or crashing the systems on the network.</li>
   <li><strong>Payload execution (Optional):</strong> Depending on the worm it may execute payload to steal the data, installing backdoor or launching attack on the systems.</li>
 </ol>
+
+<h2>Commonly used network ports by the worm to spread.</h2>
+<table>
+  <tr>
+    <td><strong></strong>Port number</td>
+    <td><strong></strong>Protocol</td>
+    <td><strong></strong>Use case / worm example</td>
+  </tr>
+  <tr>
+    <td>445</td>
+    <td>TCP</td>
+    <td>Microsoft-DS, Cornflicker worm</td>
+  </tr>
+  <tr>
+    <td>135</td>
+    <td>TCP</td>
+    <td>Microsoft RPC, Blaster worm</td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td>UDP</td>
+    <td>TFTP backdoor, Blaster worm</td>
+  </tr>
+  <tr>
+    <td>139</td>
+    <td>TCP</td>
+    <td>NetBIOS session service</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>TCP</td>
+    <td>SMTP Email Worms</td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td>TCP</td>
+    <td>HTTP worm payload delivery</td>
+  </tr>
+</table>
