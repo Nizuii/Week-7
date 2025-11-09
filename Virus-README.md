@@ -31,6 +31,14 @@
   </ul>
   <li><h3><strong>Triggering Phase:</strong></h3></li>
   <ul>
-    <li></li>
+    <li>The phase occurs when a specific condition or event triggers the virus to become active.</li>
+    <li>The trigger could be a date, a user interaction or reaching a certain number of replications.</li>
+    <li>Until triggered the virus remain undetected or hidden</li>
+  </ul>
+  <li><h3><strong>Execution Phase:</strong></h3></li>
+  <ul>
+    <li>In this final stage the virus executes its payload - the harmful or intented action</li>
+    <li>Possible effects include corrupting or deleting files, slowing down or crashing systems, stealing information or displaying unwanted messages.</li>
+    <li>The execution causes the damage or disruption that defines the virus impact on computer.</li>
   </ul>
 </ol>
