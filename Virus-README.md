@@ -9,4 +9,6 @@
 <ul>
   <li>Viruses can spread through removable devices like external USB drives, memory cards, external hard drives etc... if they carry infected files. When plugged into a system either these viruses can infect automatically or by executing the infected files.</li>
   <li>Email attachments or links are another common vectors for the spreading of virus. When opening the infected attachments or clicking on malicious download links and executes the virus. They can appear as legitimate files or disguised links in emails or messages.</li>
+  <li>Downloading pirated softwares, free software trials or files from untrusted sources often carries embeded viruses. Downloading and installing those files or softwares leads to infection.</li>
+  <li>Networks and shared files allows virus to spread between connected systems, especially if security vulnerabilities are exploited.</li>
 </ul>
