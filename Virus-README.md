@@ -23,4 +23,14 @@
     <li>It does not perform any harmful actions to the computer.</li>
     <li>Staying dormant helps the virus to evade detection by antivirus softwares until condition are right for activation.</li>
   </ul>
+  <li><h3><strong>Propagation Phase:</strong></h3></li>
+  <ul>
+    <li>During the propagation phase the virus starts to spread itself.</li>
+    <li>It replicates by copying its code to other executable files or system areas.</li>
+    <li>Each newly infected files becomes a carrier for the virus, helping the virus to multipy and infect more parts of the systems and other connected systems.</li>
+  </ul>
+  <li><h3><strong>Triggering Phase:</strong></h3></li>
+  <ul>
+    <li></li>
+  </ul>
 </ol>
