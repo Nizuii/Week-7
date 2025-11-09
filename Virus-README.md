@@ -12,3 +12,6 @@
   <li>Downloading pirated softwares, free software trials or files from untrusted sources often carries embeded viruses. Downloading and installing those files or softwares leads to infection.</li>
   <li>Networks and shared files allows virus to spread between connected systems, especially if security vulnerabilities are exploited.</li>
 </ul>
+
+<h2>Phases of computer virus life cycle</h2>
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f83d3907-d672-4724-a4e4-d30a9a6983ab.png">
