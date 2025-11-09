@@ -65,3 +65,13 @@
     <td>HTTP worm payload delivery</td>
   </tr>
 </table>
+
+<h2>Prevention</h2>
+<ul>
+  <li>Use reputable aniti malware software</li>
+  <li>Keep OS and softwares updated</li>
+  <li>Cautious of opening unknown emails and links.</li>
+  <li>Use firewalls to control and monitor network traffic.</li>
+  <li>Use srong passwords and access controls.</li>
+  <li>Backup and encrypt important files.</li>
+</ul>
