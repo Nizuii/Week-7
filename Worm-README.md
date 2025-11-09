@@ -9,5 +9,7 @@
 <ul>
   <li><strong>Through Vulnerabilities:</strong> If a system or software has a security flaw, a worm can sneak in automatically by eploiting that weakness.</li>
   <strong>Example:</strong> A worm scanss the internet for specific unpatched ports open. Then injects itself.
-  <li></li>
+  <li><strong>Through Emails or Links:</strong> Some worms disguise themselves as attachments or links. When you open them, They execute their code and starts spreading inside your network.</li>
+  <strong>Example:</strong> "ILOVEYOU" worm came as an email attachment. People opened it with curiosity and boom. It infected millions of systems accross the world.
+  <li><strong>Through network sharing:</strong> </li>
 </ul>
