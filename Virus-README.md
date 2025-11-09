@@ -42,3 +42,12 @@
     <li>The execution causes the damage or disruption that defines the virus impact on computer.</li>
   </ul>
 </ol>
+
+<h2>🛡️ Mitigations to prevent Virus</h2>
+<ul>
+  <li>Installing and updating reputable anti virus or anti malware software.</li>
+  <li>Keeping OS, Browsers and applications upto date.</li>
+  <li>Cautious with email attachments and links</li>
+  <li>Using firewall to control and monitor the incomming and outgoing network traffic.</li>
+  <li>Download softwares from only trusted sources.</li>
+</ul>
