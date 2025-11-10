@@ -23,3 +23,12 @@
   <li>The attacker accesses the captured data remotely to extract sensitive information like passwords or credit card numbers.</li>
   <li>Meanwhile, the operating system receives the keystroke data and displays it on the screen as usual, so the user remains unaware.</li>
 </ol>
+
+<h2>Prevention</h2>
+<ul>
+  <li>Install reputable antivirus and anti-keylogger software</li>
+  <li>Practice safe browsing and email habits</li>
+  <li>Use multi-factor authentication</li>
+  <li>Utilize password managers</li>
+  <li>Employ keystroke encryption tools:</li>
+</ul>
