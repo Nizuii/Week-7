@@ -13,3 +13,13 @@
 
 <h2>Working mechanism of a keylogger.</h2>
 <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/76490f52-ffd0-410c-943b-90182027e675.png">
+
+<ol>
+  <li>User types on keyboard.</li>
+  <li>The keystrokes data is sent from the keyboard to the computers keyboard controller.</li>
+  <li>Before reaching the OS, the keylogger software interceots the data.</li>
+  <li>The keylogger records each keystroke and stores it in a hidden log file locally or prepares to send it.</li>
+  <li>Periodically, the logged keystroke data is automatically sent remotely to the attacker’s server or email.</li>
+  <li>The attacker accesses the captured data remotely to extract sensitive information like passwords or credit card numbers.</li>
+  <li>Meanwhile, the operating system receives the keystroke data and displays it on the screen as usual, so the user remains unaware.</li>
+</ol>
