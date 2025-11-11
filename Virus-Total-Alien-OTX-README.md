@@ -37,3 +37,7 @@ There are three main levels of threat intelligence:
 | **Operational TI** | Info about ongoing attacks or campaigns | Which hacker group is attacking whom          |
 | **Strategic TI**   | High-level insights for decision makers | Trends in ransomware or nation-state activity |
 
+# What’s “Threat Analysis”?
+Threat Analysis is the process of studying and interpreting threat data to understand what’s happening and what to do next.
+If Threat Intelligence is the data you gather,
+then Threat Analysis is the thinking you apply to that data.
