@@ -26,3 +26,14 @@ Alien vault OTX is a social network for Cyber security threats.
 <ul>
   <li>Cybersecurity tools can connect to OTX and automatically update their defences basedd on latest shared threats info.</li>
 </ul>
+
+# What’s “Threat Intelligence”?
+Threat Intelligence (TI) means collecting, analyzing, and using information about potential or existing cyber threats to make better security decisions.
+There are three main levels of threat intelligence:
+
+| Type               | Description                             | Example                                       |
+| ------------------ | --------------------------------------- | --------------------------------------------- |
+| **Tactical TI**    | Technical details used to block threats | IPs, URLs, file hashes, signatures            |
+| **Operational TI** | Info about ongoing attacks or campaigns | Which hacker group is attacking whom          |
+| **Strategic TI**   | High-level insights for decision makers | Trends in ransomware or nation-state activity |
+
