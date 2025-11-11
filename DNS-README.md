@@ -25,5 +25,10 @@ There are mainly 3 hierarchy:
 </ul>
 <h3>Second Level Domain</h3>
 <ul>
-  <li>Taking google.com as an example, the .com part is TLD & google is the second level domain. When registering a name</li>
+  <li>Taking google.com as an example, the .com part is TLD & google is the second level domain. When registering a domain name, the second level domain is limited to 63 characters + the TLD and can only use a-z, 0-9 & hyphens(-)</li>
+</ul>
+<h3>Subdomain</h3>
+<ul>
+  <li>A subdomain sits on the left side of the second level domain using a period to seperate it. Example: student.brototype.com the student is the subdomain.</li>
+  <li>The subdomain has the same restrictions as the second level domain, being limited to 63 characters and can only use a-z, 0-9, and hyphens(-).</li>
 </ul>
