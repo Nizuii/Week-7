@@ -39,3 +39,18 @@
     A big attack can saturate network links or shared infrastructure, causing unrelated services or tenants to suffer too.
   </li>
 </ol>
+
+<h3>Mitigations</h3>
+<ol>
+  <li>Put your site behind a CDN</li>
+  <li>Turn on “Under Attack” / challenge mode in the CDN dashboard</li>
+  <li>Enable the Web Application Firewall</li>
+  <li>Set a basic rate limit (slow down repeat callers)</li>
+  <li>Block a country or region temporarily (if attack is concentrated)</li>
+  <li>Contact your host or ISP immediately</li>
+  <li>Switch to a static maintenance page (save resources)</li>
+  <li>Blackholing / sinkholing: throw traffic to a “null” route when it's obviously malicious — quick but can block legitimate users if used bluntly.</li>
+  <li>SYN cookies and TCP tuning: protect against connection-table exhaustion (network-level tuning to refuse incomplete handshakes instead of storing them).</li>
+  <li>Behavioral filtering (WAF or bot manager): detect patterns that look like bots (no JavaScript, wrong headers) and challenge them (CAPTCHA, JS challenge).</li>
+  <li>Upstream filtering with your ISP: the ISP can filter traffic before it reaches your network — essential for large attacks.</li>
+</ol>
