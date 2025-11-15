@@ -14,7 +14,7 @@
 </ul>
 
 <h2>Phases of computer virus life cycle</h2>
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f83d3907-d672-4724-a4e4-d30a9a6983ab.png">
+<img src="/images/virus.png">
 
 <ol>
   <li><h3><strong>Dormant Phase:</strong></h3></li>
