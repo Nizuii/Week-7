@@ -12,7 +12,7 @@
 </ul>
 
 <h2>Working mechanism of a keylogger.</h2>
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/76490f52-ffd0-410c-943b-90182027e675.png">
+<img src="/images/keylogger.png">
 
 <ol>
   <li>User types on keyboard.</li>
