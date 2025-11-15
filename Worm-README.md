@@ -16,7 +16,7 @@
 </ul>
 
 <h2>How worm spreads through a network.</h2>
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/24b796ee-a6b6-4ce5-846d-9dc5aec0dd26.png"> 
+<img src="/images/worm.png"> 
 <ol>
   <li><strong>Initial infection:</strong> The worm infects one vulnerable system on a network through a method like email attachment, malicious link, network vulnerability or infected removable device.</li>
   <li><strong>Activation:</strong> The worm activaes itself on a infected computer without the user's knowledge.</li>
